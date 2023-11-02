@@ -13,7 +13,7 @@ console.log(person['name']);
 console.log(person['age']);  
 console.log(person['city']);
 
-// Escribe tu código aquí:
+
 const person = {
   name: 'John',
   age: 30,
@@ -22,4 +22,5 @@ const person = {
 
 console.log('Notacion de puntos', person.name)
 console.log('Notacion de corchetes', person['name'])
+
 
