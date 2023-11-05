@@ -17,3 +17,4 @@ class Square extends Rectangle {
 const square = new Square(7)
 
 console.log('Area del cuadrado:', square.calculateArea())
+
