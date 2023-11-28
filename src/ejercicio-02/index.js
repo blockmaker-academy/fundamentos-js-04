@@ -1,7 +1,7 @@
 const car = {
     brand: 'Toyota',
     model: 'Camry',
-    year: '2022'
+    year: '2023'
 }
 
 for (let prop in car) {
